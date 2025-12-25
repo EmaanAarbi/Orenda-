@@ -12,7 +12,7 @@
 * Dummy data integration (safe for testing and learning)
 * Scalable project architecture following best practices
 
-##Tech Stack
+**Tech Stack **
 
 * **Flutter** (Dart)
 * **Firebase**
@@ -22,8 +22,7 @@
 * **Material Design**
 
 ## Project Structure
-
-
+ ```
 lib/
 │── core/
 │   └── routes/
@@ -39,6 +38,7 @@ lib/
 │   └── reusable_widgets.dart
 │
 │── main.dart
+ ```
 
 ## Setup Instructions
 
